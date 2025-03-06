@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "01_types_and_values/*",
+  "02_control_flow_basics/*",
+  "03_tuples_and_array/*",
+  "04_references/*",
+]
+
+[workspace.package]
+version = "0.1.0"
+authors = ['Ferv0r2']
+description = "Learn Rust"

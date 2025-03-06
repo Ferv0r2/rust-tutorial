@@ -46,7 +46,7 @@ fn irrefutable_pattern_condition() {
 // None이 들어오면 Some(value)로 해체할 수 없다.
 // 반증 가능한 패턴은 if let 또는 match로 처리해야 한다.
 fn refutable_pattern() {
-    let Some(value) = Some(10); // error
+    // let Some(value) = Some(10); // error
 }
 
 fn main() {
