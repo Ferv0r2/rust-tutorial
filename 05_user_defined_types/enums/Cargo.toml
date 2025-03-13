@@ -1,0 +1,8 @@
+[package]
+name = "enums"
+edition = "2021"
+version.workspace = true
+authors.workspace = true
+description.workspace = true
+
+[dependencies]
