@@ -4,7 +4,7 @@ members = [
   "02_control_flow_basics/*",
   "03_tuples_and_array/*",
   "04_references/*",
-  "05_user_defined_types/named_structs",
+  "05_user_defined_types//*",
 ]
 
 [workspace.package]
