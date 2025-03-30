@@ -1,6 +1,7 @@
 [workspace]
 members = [
-  "comprehensive_rust/*/*"
+  "backjoon_online_judge/*",
+  "comprehensive_rust/*/*",
 ]
 
 [workspace.package]
